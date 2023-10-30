@@ -43,3 +43,4 @@ All exercices can be found on [learn.henri.run](https://decima.notion.site/Exerc
 ### Datasets
 
 - Spotify
+- my dataset on titanic
